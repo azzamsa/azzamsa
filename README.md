@@ -1,3 +1,8 @@
-# Nothing to see here
+# Azzam S.A
 
-But there is something to see [here ⇢](https://azzamsa.com/projects/).
+Other repositories are hosted at:
+
+- https://sr.ht/~azzamsa
+- https://codeberg.org/azzamsa
+
+[More about me](https://azzamsa.com/about/)
