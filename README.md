@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="img/profile-extra.jpg" height="250" style="border-radius:50%">
+  <img src="static/pfp/2023/banner.jpg" height="250" style="border-radius:50%">
 </div>
 
 Hi, I'm Azzam S.A. <img src="https://user-images.githubusercontent.com/17734314/191023641-b6f9f01c-f69d-4095-8d39-ce54827724ed.gif" width="20">
